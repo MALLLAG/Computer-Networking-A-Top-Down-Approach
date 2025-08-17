@@ -93,7 +93,7 @@
 
 ---
 
-# 컴퓨터 네트워킹 — 1.2 네트워크 엣지
+# 1.2 네트워크 엣지
 
 <img width="439" height="357" alt="Image" src="https://github.com/user-attachments/assets/0b791d7d-26c4-4b26-9b21-0e16f139c398" />
 
